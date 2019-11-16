@@ -1,0 +1,5 @@
+file = open('PersonalData.txt','w')
+file.write("Sebastian Bętkowski\n")
+file.write("Uniwersytet Ekonomiczny\n")
+file.write("Informatyka Stosowana")
+file.close()
